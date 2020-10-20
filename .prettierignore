@@ -4,4 +4,4 @@
 /node_modules
 
 # misc
-./prettier/index.js
+/prettier/index.js

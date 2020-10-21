@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "run": "ts-node index.ts"
+        "run": "ts-node index.js"
     },
     "author": "reichhartd",
     "license": "MIT",

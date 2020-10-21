@@ -5,5 +5,6 @@ function bar(x) {
     return 'default string';
 }
 
-const output: string = bar(2);
+const output = bar(2);
 console.log(output);
+console.log(typeof output);

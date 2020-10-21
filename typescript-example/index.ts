@@ -1,9 +1,9 @@
-function foo(x) {
+function bar(x) {
     if (x) {
         return x;
     }
     return 'default string';
 }
 
-const bar = foo(2);
-console.log(bar);
+const output: string = bar(2);
+console.log(output);
